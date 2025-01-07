@@ -1,4 +1,4 @@
-# OQGIS-symbol-syle-pool
+# OQGIS-symbol-style-pool
 Share some of the special style symbol files produced by OpenQGIS
 
 ## qml
