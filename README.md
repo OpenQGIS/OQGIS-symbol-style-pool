@@ -8,5 +8,5 @@ Share some of the special style symbol files produced by OpenQGIS
 符号样式库
 
 <div style="text-align: center;">
-  <a href="https://github.com/OpenQGIS/OQGIS-symbol-style-pool/blob/main/XML/Great_wall/Great%20wall.png" target="_blank">
-    <img src="https://github.com/OpenQGIS/OMap-GeoDB/blob/main/qrcode_OpenQGIS.jpg" style="width: 15%;" title="公众号二维码">
+  <a href="https://github.com/OpenQGIS/OQGIS-symbol-style-pool/blob/main/XML/Great_wall/Great%20wall.xml" target="_blank">
+    <img src="https://github.com/OpenQGIS/OQGIS-symbol-style-pool/blob/main/XML/Great_wall/Great%20wall.png" style="width: 30%;" title="Great wall.xml">
